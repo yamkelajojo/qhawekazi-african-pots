@@ -1,0 +1,1 @@
+not click down when click on image exactly

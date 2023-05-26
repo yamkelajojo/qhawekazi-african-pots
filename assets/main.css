@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Quicksand', sans-serif;  
+    src: url("https://api.fontshare.com/v2/css?f[]=gambetta@400&display=swap") format('truetype'),
+  }
+
+@font-face {
+    font-family: 'Calligraffitti', cursive;  
+    src: url('https://fonts.googleapis.com/css2?family=Baloo+Chettan+2&family=Calligraffitti&display=swap') format('truetype'),
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: lighter;
+    /* text-shadow: 1px 1px 1px rgba(255, 0, 0, 0.004); */
+    text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+}
+
+
+.py-def{
+    padding: 19px 0px;
+  }
+
+
+.p-def{
+    padding: 19px 19px;
+}
+
+.p-1{
+    padding: 29px 29px;
+    }
+
+.p-2{
+    padding: 39px 39px;
+}
